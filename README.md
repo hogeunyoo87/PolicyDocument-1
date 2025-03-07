@@ -1,7 +1,7 @@
 # **NAVER Cloud Trust Services**  
 # **Certificate Policy / Certificate Practices Statement**
 
-## Version 1.0.4
+## Version 1.0.4aaaaa
 
 ### 26 November 2024
 
